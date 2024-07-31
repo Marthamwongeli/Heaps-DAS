@@ -1,1 +1,2 @@
 # Heaps-DAS
+ A heap is a specialized tree-based data structure that satisfies the heap property, where the value of each node is either greater than or equal to (in a max heap) or less than or equal to (in a min heap) the values of its children. This property ensures that the root node contains the maximum or minimum value, depending on the type of heap, and the values decrease or increase as you move down the tree .
